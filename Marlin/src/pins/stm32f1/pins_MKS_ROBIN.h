@@ -241,7 +241,7 @@
    * MSerial0 or MSerial1.
    *
    * When using TMC2208 or more than four drivers, SoftwareSerial will be needed,
-   * to provide dedicated pins for each drier.
+   * to provide dedicated pins for each driver.
    */
 
   //#define TMC_HARDWARE_SERIAL
